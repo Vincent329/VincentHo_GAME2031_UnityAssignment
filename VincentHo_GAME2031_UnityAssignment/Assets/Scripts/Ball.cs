@@ -10,7 +10,6 @@ public class Ball : MonoBehaviour
     [SerializeField] private GameObject m_nextBall;
 
     [SerializeField] private PlayerMovement m_PlayerRef;
-
     private Rigidbody2D m_rb;
 
     void Start()
@@ -29,21 +28,13 @@ public class Ball : MonoBehaviour
             GameObject ballRight = Instantiate(m_nextBall, m_rb.position + Vector2.right / 2f, Quaternion.identity);
             GameObject ballLeft = Instantiate(m_nextBall, m_rb.position + Vector2.left / 2f, Quaternion.identity);
 
+            // bounce the separated balls right and left respectively
             ballRight.GetComponent<Ball>().m_StartForce = new Vector2(2.0f, 5.0f);
             ballLeft.GetComponent<Ball>().m_StartForce = new Vector2(-2.0f, 5.0f);
         }
+
+        // takes the point value of the ball and moves it to the player's point total
         m_PlayerRef.UpdatePoints(m_PointValue);
         Destroy(gameObject);
-    }
-
-    public int GetPointValue()
-    {
-        return m_PointValue;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

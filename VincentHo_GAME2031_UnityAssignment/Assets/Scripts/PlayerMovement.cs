@@ -31,6 +31,7 @@ public class PlayerMovement : MonoBehaviour
     // Call Game Over to appear once 
     [SerializeField] private GameOverText gameOverTick;
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -141,9 +142,9 @@ public class PlayerMovement : MonoBehaviour
         if (layerCheck.value == 1 << collision.gameObject.layer)
         {
             Debug.Log("HitBall");
-            gameOverTick.DisplayFinalScore(m_points);
+            gameOverTick.SetFinalScore(m_points);
+            gameOverTick.SetIsGameOver(true);
             m_PointsText.enabled = false;
-
             Destroy(gameObject);
         }
     }
