@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: 04074abfbdab34f4da4359f643820ce8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7587936928426382455
+    second: contrasprites_0
+  - first:
+      213: 7304079922241418913
+    second: contrasprites_1
+  - first:
+      213: -174632368688008949
+    second: contrasprites_2
+  - first:
+      213: 6239448755985016738
+    second: contrasprites_3
+  - first:
+      213: -8180885148549582399
+    second: contrasprites_4
+  - first:
+      213: 4436324172289908672
+    second: contrasprites_5
+  - first:
+      213: -1915726101221535279
+    second: contrasprites_6
+  - first:
+      213: 1937663093312370723
+    second: contrasprites_7
+  - first:
+      213: -5594248379305606529
+    second: contrasprites_8
+  - first:
+      213: 2075092339356327151
+    second: contrasprites_9
+  - first:
+      213: 558477926110661902
+    second: contrasprites_10
+  - first:
+      213: 7387584279269424189
+    second: contrasprites_11
+  - first:
+      213: -5587103253931122971
+    second: contrasprites_12
+  - first:
+      213: 4867814704273622972
+    second: contrasprites_13
+  - first:
+      213: 8829664206321708033
+    second: contrasprites_14
+  - first:
+      213: -6260685101809140705
+    second: contrasprites_15
+  - first:
+      213: -4369614654454173381
+    second: contrasprites_16
+  - first:
+      213: -3143863540053958287
+    second: contrasprites_17
+  - first:
+      213: -2879682405651649253
+    second: contrasprites_18
+  - first:
+      213: 3017541452254352290
+    second: contrasprites_19
+  - first:
+      213: -8541755663346193516
+    second: contrasprites_20
+  - first:
+      213: 482359238879402980
+    second: contrasprites_21
+  - first:
+      213: 6980990008520794402
+    second: contrasprites_22
+  - first:
+      213: -760722236952303635
+    second: contrasprites_23
+  - first:
+      213: -182628607883350168
+    second: contrasprites_24
+  - first:
+      213: 1986238369410423440
+    second: contrasprites_25
+  - first:
+      213: -8648695912258984622
+    second: contrasprites_26
+  - first:
+      213: 1612304352888165166
+    second: contrasprites_27
+  - first:
+      213: 2366489235164286825
+    second: contrasprites_28
+  - first:
+      213: -4503803352650521755
+    second: contrasprites_29
+  - first:
+      213: -3371043999114465217
+    second: contrasprites_30
+  - first:
+      213: 2686904880916786320
+    second: contrasprites_31
+  - first:
+      213: 211472048288201253
+    second: contrasprites_32
+  - first:
+      213: -8220055292689978450
+    second: contrasprites_33
+  - first:
+      213: 1309428207669568062
+    second: contrasprites_34
+  - first:
+      213: 8050608599544853969
+    second: contrasprites_35
+  - first:
+      213: 6277867822915949949
+    second: contrasprites_36
+  - first:
+      213: -121707978742481672
+    second: contrasprites_37
+  - first:
+      213: -7278927474707865074
+    second: contrasprites_38
+  - first:
+      213: -8442801732118483783
+    second: contrasprites_39
+  - first:
+      213: 931735790115874236
+    second: contrasprites_40
+  - first:
+      213: 3187710511135868313
+    second: contrasprites_41
+  - first:
+      213: -2813485251106404680
+    second: contrasprites_42
+  - first:
+      213: -1172343438643957929
+    second: contrasprites_43
+  - first:
+      213: -4255286791270888856
+    second: contrasprites_44
+  - first:
+      213: -917350812438390942
+    second: contrasprites_45
+  - first:
+      213: -3516802783117217590
+    second: contrasprites_46
+  - first:
+      213: 1817363203848576681
+    second: contrasprites_47
+  - first:
+      213: 2709541853653702049
+    second: contrasprites_48
+  - first:
+      213: -2967901281860387676
+    second: contrasprites_49
+  - first:
+      213: -8468116291768237106
+    second: contrasprites_50
+  - first:
+      213: -969619680974273256
+    second: contrasprites_51
+  - first:
+      213: 2938043586704343935
+    second: contrasprites_52
+  - first:
+      213: 1886046884040834294
+    second: contrasprites_53
+  - first:
+      213: 5886486553776037956
+    second: contrasprites_54
+  - first:
+      213: -5672073731106382528
+    second: contrasprites_55
+  - first:
+      213: 7070963535943591596
+    second: contrasprites_56
+  - first:
+      213: 8890206900464726807
+    second: contrasprites_57
+  - first:
+      213: 6592537356216854769
+    second: contrasprites_58
+  - first:
+      213: 8631525320017552765
+    second: contrasprites_59
+  - first:
+      213: 2597080409137198500
+    second: contrasprites_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: contrasprites_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 236
+        width: 14
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ba313f09b32b690800000000000000
+      internalID: -7587936928426382455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 236
+        width: 14
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a633489dfd4d5560800000000000000
+      internalID: 7304079922241418913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 236
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f01239c4939df0800000000000000
+      internalID: -174632368688008949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 236
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a76db6e599f69650800000000000000
+      internalID: 6239448755985016738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 236
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1fe643d48a77e80800000000000000
+      internalID: -8180885148549582399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 236
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf91dd745df09d30800000000000000
+      internalID: 4436324172289908672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 236
+        width: 14
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d11fb9c249f965e0800000000000000
+      internalID: -1915726101221535279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 236
+        width: 14
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b4433156f3ea10800000000000000
+      internalID: 1937663093312370723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 197
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724f261dbc3d52b0800000000000000
+      internalID: -5594248379305606529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 197
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd7730d753ccc10800000000000000
+      internalID: 2075092339356327151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 197
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d09b007bc10c700800000000000000
+      internalID: 558477926110661902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 197
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c3d1ac2c8f58660800000000000000
+      internalID: 7387584279269424189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 197
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee910a313f9672b0800000000000000
+      internalID: -5587103253931122971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 197
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb707a8cea3fd8340800000000000000
+      internalID: 4867814704273622972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 159
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c69c760d4498a70800000000000000
+      internalID: 8829664206321708033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cf51802149d19a0800000000000000
+      internalID: -6260685101809140705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31faeb7f920c53c0800000000000000
+      internalID: -4369614654454173381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17128c864c0ce54d0800000000000000
+      internalID: -3143863540053958287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 159
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de039fb105908d0800000000000000
+      internalID: -2879682405651649253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 159
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a313a496f570e920800000000000000
+      internalID: 3017541452254352290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 120
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba118fa76957980800000000000000
+      internalID: -8541755663346193516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd88f0c2fa1b600800000000000000
+      internalID: 482359238879402980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ee660d6571e060800000000000000
+      internalID: 6980990008520794402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 120
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a7bde72f5175f0800000000000000
+      internalID: -760722236952303635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 120
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fe94daf3c277df0800000000000000
+      internalID: -182628607883350168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 120
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a95fff549809b10800000000000000
+      internalID: 1986238369410423440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 120
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552e6bf3e8a9f780800000000000000
+      internalID: -8648695912258984622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 120
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2317bf344e006610800000000000000
+      internalID: 1612304352888165166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 120
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc0c2db6577d020800000000000000
+      internalID: 2366489235164286825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 120
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636d0386b64f71c0800000000000000
+      internalID: -4503803352650521755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30f196e755a731d0800000000000000
+      internalID: -3371043999114465217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cee4cd0cdc94520800000000000000
+      internalID: 2686904880916786320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 97
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a742e15bc4fe200800000000000000
+      internalID: 211472048288201253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 97
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabe425534f7ced80800000000000000
+      internalID: -8220055292689978450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 34
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32650964060c2210800000000000000
+      internalID: 1309428207669568062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 97
+        width: 34
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d573990ed189bf60800000000000000
+      internalID: 8050608599544853969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 97
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7592cbf5877f1750800000000000000
+      internalID: 6277867822915949949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc39b8fc3b9f4ef0800000000000000
+      internalID: -121707978742481672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e434f60e0cfa90800000000000000
+      internalID: -7278927474707865074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 97
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc66087e8425da80800000000000000
+      internalID: -8442801732118483783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 34
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ef5ab3c03eec00800000000000000
+      internalID: 931735790115874236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 72
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995480712d50d3c20800000000000000
+      internalID: 3187710511135868313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b68003121e74f8d0800000000000000
+      internalID: -2813485251106404680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fedd89adffabfe0800000000000000
+      internalID: -1172343438643957929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a03e4753f22f4c0800000000000000
+      internalID: -4255286791270888856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2679132eb4ae443f0800000000000000
+      internalID: -917350812438390942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 72
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07137608ec13fc0800000000000000
+      internalID: -3516802783117217590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 72
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae92418432983910800000000000000
+      internalID: 1817363203848576681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 72
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5151bc5f93a9520800000000000000
+      internalID: 2709541853653702049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 72
+        width: 34
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf84e3285efc6d0800000000000000
+      internalID: -2967901281860387676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3c47049153b7a80800000000000000
+      internalID: -8468116291768237106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_51
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 55
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150d4499083b82f0800000000000000
+      internalID: -969619680974273256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 55
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f738020631706c820800000000000000
+      internalID: 2938043586704343935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 55
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7cf8f5a59c2a10800000000000000
+      internalID: 1886046884040834294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 55
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402fec255001b150800000000000000
+      internalID: 5886486553776037956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_55
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6
+        width: 19
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d54955efeb841b0800000000000000
+      internalID: -5672073731106382528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_56
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca668a35fdb112260800000000000000
+      internalID: 7070963535943591596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_57
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 19
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133de9d21c506b70800000000000000
+      internalID: 8890206900464726807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 20
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f86cc5fbc56d7b50800000000000000
+      internalID: 6592537356216854769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75af69fb8659c770800000000000000
+      internalID: 8631525320017552765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contrasprites_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5bfb74fdeaa0420800000000000000
+      internalID: 2597080409137198500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
