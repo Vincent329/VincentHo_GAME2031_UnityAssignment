@@ -135,5 +135,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_StartForce: {x: 2, y: 0}
-  m_PointValue: 2
+  m_PointValue: 4
   m_nextBall: {fileID: 4389608311082065972, guid: 0588b207ed4f58e4f88424e8b0e476ef, type: 3}
+  m_PlayerRef: {fileID: 0}

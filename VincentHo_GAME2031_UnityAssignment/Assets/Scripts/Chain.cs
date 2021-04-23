@@ -21,12 +21,15 @@ public class Chain : MonoBehaviour
         if (isFired)
         {
             transform.localScale = transform.localScale + Vector3.up * Time.deltaTime * m_fChainSpeed;
-            
+
         }
         else
         {
-            transform.position = playerPos.position;
-            transform.localScale = new Vector3(1.0f, 0.0f, 1.0f); // keeps the scale of the pivot to 0, won't be visible
+            if (playerPos != null)
+            {
+                transform.position = playerPos.position;
+                transform.localScale = new Vector3(1.0f, 0.0f, 1.0f); // keeps the scale of the pivot to 0, won't be visible
+            }
         }
     }
 

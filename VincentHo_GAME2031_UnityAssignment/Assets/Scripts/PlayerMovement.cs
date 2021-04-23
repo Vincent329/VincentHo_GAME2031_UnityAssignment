@@ -2,23 +2,34 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
+    // movement variables
     private Rigidbody2D m_rb;
-
     [SerializeField] private Vector2 m_vel;
     [SerializeField] private float m_fSpeedValue;
     [SerializeField] private float m_fMoveValue;
 
+    // chain variables
     private float speed;
     [SerializeField] private Chain chain;
 
+    // sprite variables
     [SerializeField] private Animator m_anim;
-
     private SpriteRenderer m_render;
 
+    // collision check
+    [SerializeField] private LayerMask layerCheck;
 
+    // Text Display
+    [SerializeField] private TextMeshProUGUI m_PointsText;
+    [SerializeField] private int m_points;
+
+    // Call Game Over to appear once 
+    [SerializeField] private GameOverText gameOverTick;
 
     // Start is called before the first frame update
     void Start()
@@ -27,6 +38,7 @@ public class PlayerMovement : MonoBehaviour
         m_anim = GetComponent<Animator>();
         m_render = GetComponent<SpriteRenderer>();
         speed = 0.0f;
+        UpdatePoints(0);
     }
 
     // Update is called once per frame
@@ -94,7 +106,6 @@ public class PlayerMovement : MonoBehaviour
         m_anim.SetTrigger("Shoot");
         chain.SetIsFired(true);
     }
-
     private void HandleTouchInputs()
     {
         if (Input.touchCount > 0)
@@ -116,6 +127,24 @@ public class PlayerMovement : MonoBehaviour
                 m_fMoveValue = 0;
                 m_vel = new Vector2(m_fMoveValue * m_fSpeedValue, 0.0f);
             }
+        }
+    }
+
+    public void UpdatePoints(int value)
+    {
+        m_points += value;
+        m_PointsText.text = "Points: " + m_points;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (layerCheck.value == 1 << collision.gameObject.layer)
+        {
+            Debug.Log("HitBall");
+            gameOverTick.DisplayFinalScore(m_points);
+            m_PointsText.enabled = false;
+
+            Destroy(gameObject);
         }
     }
 }
