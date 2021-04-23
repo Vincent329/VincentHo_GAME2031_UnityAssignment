@@ -6,13 +6,13 @@ public class Chain : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] private Transform playerPos;
-
+    [SerializeField] private float m_fChainSpeed;
     // here so that we don't need a direct reference to this particular script
     [SerializeField] private bool isFired;
-    [SerializeField] public SpriteRenderer chainSprite;
+
     void Start()
     {
-        isFired = false;   
+        isFired = false;
     }
 
     // Update is called once per frame
@@ -20,8 +20,9 @@ public class Chain : MonoBehaviour
     {
         if (isFired)
         {
-
-        } 
+            transform.localScale = transform.localScale + Vector3.up * Time.deltaTime * m_fChainSpeed;
+            
+        }
         else
         {
             transform.position = playerPos.position;
@@ -32,6 +33,6 @@ public class Chain : MonoBehaviour
     public void SetIsFired(bool fired)
     {
         isFired = fired;
-        Debug.Log(isFired);
     }
+
 }
