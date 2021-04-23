@@ -12,11 +12,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float m_fMoveValue;
 
     private float speed;
+    [SerializeField] private Chain chain;
 
-    [SerializeField]
-    private Animator m_anim;
+    [SerializeField] private Animator m_anim;
 
     private SpriteRenderer m_render;
+
 
 
     // Start is called before the first frame update
@@ -94,6 +95,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Debug.Log("Shooting");
         m_anim.SetTrigger("Shoot");
+        chain.SetIsFired(true);
     }
 
     private void HandleTouchInputs()
