@@ -30,6 +30,7 @@ public class Chain : MonoBehaviour
         }
     }
 
+    // public so that we can access this function from another script
     public void SetIsFired(bool fired)
     {
         isFired = fired;

@@ -77,7 +77,6 @@ public class PlayerMovement : MonoBehaviour
 
     public void MoveLeft()
     {
-        Debug.Log("Moving Left");
         m_fMoveValue = -1;
         m_vel = new Vector2(m_fMoveValue * m_fSpeedValue, 0.0f);
         m_render.flipX = true;
@@ -85,7 +84,6 @@ public class PlayerMovement : MonoBehaviour
 
     public void MoveRight()
     {
-        Debug.Log("MovingRight");
         m_fMoveValue = 1;
         m_vel = new Vector2(m_fMoveValue * m_fSpeedValue, 0.0f);
         m_render.flipX = false;
@@ -93,7 +91,6 @@ public class PlayerMovement : MonoBehaviour
 
     public void Shoot()
     {
-        Debug.Log("Shooting");
         m_anim.SetTrigger("Shoot");
         chain.SetIsFired(true);
     }
@@ -116,7 +113,6 @@ public class PlayerMovement : MonoBehaviour
 
             if (t.phase == TouchPhase.Ended)
             {
-                Debug.Log("Release");
                 m_fMoveValue = 0;
                 m_vel = new Vector2(m_fMoveValue * m_fSpeedValue, 0.0f);
             }
